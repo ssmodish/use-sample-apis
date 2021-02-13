@@ -5,9 +5,11 @@
 3. Create a React app to display that information
 4. You need to use *map* at least once
 
+Bonus for using Ant Design and/or scss to style
 ---
 Some possible sources for API's
 https://sampleapis.com/
 https://swapi.dev/
 https://pokeapi.co/
+
 https://api.github.com/users/:your-username
